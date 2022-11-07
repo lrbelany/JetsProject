@@ -1,9 +1,5 @@
-Artillery Type,Hedge Hog,300,4000,2400000
-
-Assault Type,Archangel,500,3000,3600000
-
-Fortress Type,Manticore,200,5000,3800000
-
-MobileRefit Type,Freezer,250,6000,2900000
-
-Scout Type,Light Foot,800,9000,1800000
+JettyJet, 600, 1000, 1000000, Standard
+JettisonJet, 999, 2000, 15000000, Standard
+FightyFight, 3000, 4000, 400000000, Fighter
+SlowCargojet, 500, 8000, 750000, Cargo
+LuxJet, 650, 1800, 30000000, Standard
