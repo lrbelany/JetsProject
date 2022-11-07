@@ -1,0 +1,9 @@
+Artillery Type,Hedge Hog,300,4000,2400000
+
+Assault Type,Archangel,500,3000,3600000
+
+Fortress Type,Manticore,200,5000,3800000
+
+MobileRefit Type,Freezer,250,6000,2900000
+
+Scout Type,Light Foot,800,9000,1800000
